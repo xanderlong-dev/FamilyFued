@@ -1,0 +1,134 @@
+[{
+    "question": "Name a reason you might get rid of an old family heirloom",
+    "answers": [
+        {
+            "answer": "Broken",
+            "count": 29
+        },
+        {
+            "answer": "Ugly",
+            "count": 22
+        },
+        {
+            "answer": "Divorce",
+            "count": 18
+        },
+        {
+            "answer": "Sell/need money",
+            "count": 12
+        },
+        {
+            "answer": "Too much stuff",
+            "count": 10
+        },
+        {
+            "answer": "Family Fued",
+            "count": 5
+        },
+        {
+            "answer": "Moving",
+            "count": 2
+        }
+    ]
+},
+{
+    "question": "Name something you might eat with a hamburger",
+    "answers": [
+        {
+            "answer": "French fries",
+            "count": 60
+        },
+        {
+            "answer": "Soup",
+            "count": 12
+        },
+        {
+            "answer": "Salad",
+            "count": 9
+        },
+        {
+            "answer": "Onion rings",
+            "count": 5
+        },
+        {
+            "answer": "Tater tots",
+            "count": 5
+        },
+        {
+            "answer": "Pickles",
+            "count": 3
+        }
+    ]
+},
+{
+    "question": "If there were a gourmet cafe for dogs, what coffee flavors would be on the menu?",
+    "answers": [
+        {
+            "answer": "Beef",
+            "count": 43
+        },
+        {
+            "answer": "Milkbone",
+            "count": 25
+        },
+        {
+            "answer": "Bacon",
+            "count": 13
+        },
+        {
+            "answer": "Chicken",
+            "count": 9
+        },
+        {
+            "answer": "Cat",
+            "count": 8
+        }
+    ]
+},
+{
+    "question": "Name a heavy animal a China shop owner wouldn't want in their store",
+    "answers": [
+        {
+            "answer": "Bull",
+            "count": 47
+        },
+        {
+            "answer": "Elephant",
+            "count": 24
+        },
+        {
+            "answer": "Bear",
+            "count": 16
+        },
+        {
+            "answer": "Lion",
+            "count": 6
+        },
+        {
+            "answer": "Giraffe",
+            "count": 5
+        }
+    ]
+},
+{
+    "question": "Name something a romantic person would hate for their partner to do while he's singing",
+    "answers": [
+        {
+            "answer": "Laugh",
+            "count": 45
+        },
+        {
+            "answer": "Yawn/Sleep",
+            "count": 33
+        },
+        {
+            "answer": "Talk/Use the phone",
+            "count": 14
+        },
+        {
+            "answer": "Walk away",
+            "count": 6
+        }
+    ]
+}
+]

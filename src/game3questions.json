@@ -1,0 +1,94 @@
+[   {
+        "question": "Name a Reason a Person's Face May Turn Red",
+        "answers": [
+            {
+                "answer": "Embarrassed",
+                "count": 75
+            },
+            {
+                "answer": "Angry",
+                "count": 12
+            },
+            {
+                "answer": "Sunburned",
+                "count": 6
+            }
+        ]
+    },
+    {
+        "question": "Tell Me a Ball That's Smaller Than a Baseball",
+        "answers": [
+            {
+                "answer": "Golf Ball",
+                "count": 70
+            },
+            {
+                "answer": "Tennis Ball",
+                "count": 17
+            },
+            {
+                "answer": "Gumball",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "question": "Name a Reason People Might Change Their Name",
+        "answers": [
+            {
+                "answer": "Got Married",
+                "count": 60
+            },
+            {
+                "answer": "Their Name is Lame",
+                "count": 16
+            },
+            {
+                "answer": "Witness Protection",
+                "count": 13
+            },
+            {
+                "answer": "Divorce",
+                "count": 6
+            }
+        ]
+    },
+    {
+        "question": "Name an Activity Where a Person Might Come Up For Air",
+        "answers": [
+            {
+                "answer": "Swimming",
+                "count": 59
+            },
+            {
+                "answer": "Kissing",
+                "count": 6
+            },
+            {
+                "answer": "Bobbing For Apples",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "question": "Name Something a Person Might Keep in a Cellar",
+        "answers": [
+            {
+                "answer": "Wine",
+                "count": 54
+            },
+            {
+                "answer": "Dead Bodies",
+                "count": 4
+            },
+            {
+                "answer": "Furnace",
+                "count": 2
+            },
+            {
+                "answer": "Gun",
+                "count": 2
+            }
+        ]
+    }
+]

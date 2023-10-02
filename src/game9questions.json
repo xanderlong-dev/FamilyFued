@@ -1,0 +1,35 @@
+[
+    {
+        "question": "Name Something You Find in a Breakfast Buffet",
+        "answers": [
+            {
+                "answer": "Eggs",
+                "count": 25
+            },
+            {
+                "answer": "Bacon",
+                "count": 24
+            },
+            {
+                "answer": "Sausage",
+                "count": 19
+            },
+            {
+                "answer": "Juice",
+                "count": 7
+            },
+            {
+                "answer": "Coffee",
+                "count": 6
+            },
+            {
+                "answer": "Melon",
+                "count": 2
+            },
+            {
+                "answer": "Cereal",
+                "count": 2
+            }
+        ]
+    }
+]  

@@ -1,0 +1,135 @@
+[
+    {
+        "question": "Name a Type of Insurance",
+        "answers": [
+            {
+                "answer": "Car",
+                "count": 28
+            },
+            {
+                "answer": "Life",
+                "count": 15
+            },
+            {
+                "answer": "Home",
+                "count": 10
+            },
+            {
+                "answer": "Flood",
+                "count": 6
+            },
+            {
+                "answer": "Travel",
+                "count": 4
+            },
+            {
+                "answer": "Blackjack",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "question": "Name Something That Might Make You Suspect Your New House is Haunted",
+        "answers": [
+            {
+                "answer": "Moving Objects",
+                "count": 18
+            },
+            {
+                "answer": "Flickering Lights",
+                "count": 12
+            },
+            {
+                "answer": "Ghosts",
+                "count": 6
+            },
+            {
+                "answer": "Weird Odors",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "question": "Name Something That Starts With the Word \"Chow\"",
+        "answers": [
+            {
+                "answer": "Chow Mein",
+                "count": 57
+            },
+            {
+                "answer": "Chowder",
+                "count": 12
+            },
+            {
+                "answer": "Chowhound",
+                "count": 8
+            },
+            {
+                "answer": "Chow Chow",
+                "count": 8
+            },
+            {
+                "answer": "Chow Down",
+                "count": 6
+            },
+            {
+                "answer": "Chowtime",
+                "count": 6
+            }
+        ]
+    },
+    {
+        "question": "Name an Activity That Requires Using Your Lips",
+        "answers": [
+            {
+                "answer": "Kissing",
+                "count": 56
+            },
+            {
+                "answer": "Talking",
+                "count": 23
+            },
+            {
+                "answer": "Whistling",
+                "count": 7
+            },
+            {
+                "answer": "Singing",
+                "count": 4
+            },
+            {
+                "answer": "Licking Your Lips",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "question": "Name a Word You Can Use Instead of \"Woman\"",
+        "answers": [
+            {
+                "answer": "Lady",
+                "count": 36
+            },
+            {
+                "answer": "Girl",
+                "count": 24
+            },
+            {
+                "answer": "Female",
+                "count": 17
+            },
+            {
+                "answer": "Chick",
+                "count": 7
+            },
+            {
+                "answer": "Broad",
+                "count": 6
+            },
+            {
+                "answer": "Gal",
+                "count": 5
+            }
+        ]
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "question": "Name an Animal Starting With the Letter \"C\" That You'd NEVER Want to Eat",
+        "answers": [
+            {
+                "answer": "Cat",
+                "count": 64
+            },
+            {
+                "answer": "Camel",
+                "count": 8
+            },
+            {
+                "answer": "Cougar",
+                "count": 8
+            },
+            {
+                "answer": "Cow",
+                "count": 4
+            },
+            {
+                "answer": "Cheetah",
+                "count": 3
+            },
+            {
+                "answer": "Coyote",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "question": "Name Something a Person Might Keep in a Cellar",
+        "answers": [
+            {
+                "answer": "Wine",
+                "count": 54
+            },
+            {
+                "answer": "Dead Bodies",
+                "count": 4
+            },
+            {
+                "answer": "Furnace",
+                "count": 2
+            },
+            {
+                "answer": "Gun",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "question": "Name an Activity That's Easier to Do When It's Windy",
+        "answers": [
+            {
+                "answer": "Fly a Kite",
+                "count": 89
+            },
+            {
+                "answer": "Sail",
+                "count": 7
+            },
+            {
+                "answer": "Surf",
+                "count": 2
+            },
+            {
+                "answer": "Air Dry Clothes",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "question": "Tell Me a Type of Hoop",
+        "answers": [
+            {
+                "answer": "Hula Hoop",
+                "count": 60
+            },
+            {
+                "answer": "Basketball Hoop",
+                "count": 29
+            },
+            {
+                "answer": "Hoop Earrings",
+                "count": 5
+            },
+            {
+                "answer": "Hoop Skirt",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "question": "Besides Chicken, Name a Bird People Eat",
+        "answers": [
+            {
+                "answer": "Turkey",
+                "count": 64
+            },
+            {
+                "answer": "Duck",
+                "count": 13
+            },
+            {
+                "answer": "Pheasant",
+                "count": 12
+            },
+            {
+                "answer": "Quail",
+                "count": 7
+            }
+        ]
+    }
+]

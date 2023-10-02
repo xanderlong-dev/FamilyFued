@@ -1,0 +1,148 @@
+[
+    {
+        "question": "If You Could Go to the Land of OZ, What Would You Ask the Wizard For?",
+        "answers": [
+            {
+                "answer": "Money",
+                "count": 37
+            },
+            {
+                "answer": "A Brain",
+                "count": 7
+            },
+            {
+                "answer": "Hot Bod",
+                "count": 5
+            },
+            {
+                "answer": "Peace on Earth",
+                "count": 4
+            },
+            {
+                "answer": "Love",
+                "count": 4
+            },
+            {
+                "answer": "Happiness",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "question": "Tell Me A Word That Rhymes with \"Election\"",
+        "answers": [
+            {
+                "answer": "Selection",
+                "count": 32
+            },
+            {
+                "answer": "Erection",
+                "count": 23
+            },
+            {
+                "answer": "Perfection",
+                "count": 6
+            },
+            {
+                "answer": "Detection",
+                "count": 6
+            },
+            {
+                "answer": "Protection",
+                "count": 5
+            },
+            {
+                "answer": "Rejection",
+                "count": 4
+            },
+            {
+                "answer": "Collection",
+                "count": 4
+            },
+            {
+                "answer": "Section",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "question": "Name a Place Where if Her Husband Took Her There For Her Anniversary, a Wife Would Be Mad",
+        "answers": [
+            {
+                "answer": "Tacky Restaurant",
+                "count": 43
+            },
+            {
+                "answer": "Strip Joint",
+                "count": 19
+            },
+            {
+                "answer": "Sporting Event",
+                "count": 12
+            },
+            {
+                "answer": "Bowling Alley",
+                "count": 4
+            },
+            {
+                "answer": "The Movies",
+                "count": 2
+            },
+            {
+                "answer": "Car Show",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "question": "What's Something You Keep in Your Car, Just in Case?",
+        "answers": [
+            {
+                "answer": "First Aid Kit",
+                "count": 18
+            },
+            {
+                "answer": "Spare Tire",
+                "count": 15
+            },
+            {
+                "answer": "Map",
+                "count": 7
+            },
+            {
+                "answer": "Jumper Cables",
+                "count": 7
+            },
+            {
+                "answer": "Gas Can",
+                "count": 2
+            },
+            {
+                "answer": "Flare",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "question": "Name An Occasion For Which You Might Wear Your Lucky Underwear",
+        "answers": [
+            {
+                "answer": "Hot Date",
+                "count": 30
+            },
+            {
+                "answer": "Job Interview",
+                "count": 16
+            },
+            {
+                "answer": "Sporting Event",
+                "count": 9
+            },
+            {
+                "answer": "Anniversary",
+                "count": 5
+            }
+        ]
+    }
+    
+]
